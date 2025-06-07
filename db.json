@@ -1,0 +1,10 @@
+{
+  "users": [],
+  "posts": [
+    { "title": "Welcome to StudentAssist!", "body": "This is your admin speaking." }
+  ],
+  "market": [
+    { "item": "Used Textbook", "price": "₦2000" },
+    { "item": "Lab Coat", "price": "₦1500" }
+  ]
+}
